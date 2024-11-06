@@ -1,0 +1,35 @@
+Need 
+● Datawarehouse is critical for the purpose of integrating data from multiple platforms and
+  data sources store in a central location. By integrating Spotify and YouTube metrics, the
+  music labels and companies can:
+● Improve Data Consistency: Many of these ratios have been identified should be pulled
+   together in a single report or source.
+● Support Complex Queries: Allow further breakdown of the song performances over time
+  and across emerging attributes such as artist, genre and country.
+● Provide Historical Insights: Measurement data should be archived to clearly see
+  movement through the years.
+● Enhance Decision Making: Support those companies to make most superior decisions by
+  presenting the graphical representations of data patterns.
+● WhichSongs were viewed and streamed high among all other songs for the year on what
+  platform belonging to which genre?
+
+   Dimensions:
+1) Spotify Streams
+   Artist Name
+   Playlist Included
+   Spotify Stream
+   Song Name
+2) YouTube Views
+   Artist Name
+   Youtube Views
+   Song Duration (SEC)
+3) Genre
+   Artist Name
+   Genre Name
+   Likes on Spotify
+   Song Name
+4) Media Company
+   Artist Name
+   Country
+   Release Date
+   Media Company
